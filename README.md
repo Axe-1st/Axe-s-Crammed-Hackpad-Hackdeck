@@ -30,13 +30,13 @@
 -inside
 
 
-<img src="Hackdeck/Hackdeck files/pcb.png" alt="pcbfront" width="500">
+<img src="Hackdeck/Hackdeck files/insideof.png" alt="pcbfront" width="500">
 
 
 -outside
 
 
-<img src="Hackdeck/Hackdeck files/pcb.png" alt="pcbfront" width="500">
+<img src="Hackdeck/Hackdeck files/outside.png" alt="pcbfront" width="500">
 
 
 
