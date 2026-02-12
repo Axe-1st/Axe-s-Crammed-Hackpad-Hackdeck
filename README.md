@@ -1,2 +1,10 @@
 # Axe-s-Crammed-Hackpad-Hackdeck
-An Hackpad powered by an seeed RP2040 with 8 buttons and an Oled panel. Some Underglow as well. I have made an firmware which blinks the leds. i also made a case for my hackdeck
+This is my own Hackdeck! (maybe i should call it hackdecky)
+## What it has:
+1x Rotary encoder
+1x 128x32 OLED Display
+4x WS2812B RGB LEDs
+8x macro keys (planning to make lots modes/presets)
+
+## PCB:
+<img src=" ">
