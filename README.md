@@ -8,6 +8,6 @@ This is my own Hackdeck! (maybe i should call it hackdecky)
 -worst pcb routing ever
 ## PCB:
 -Front
--<img src="Axe-s-Crammed-Hackpad-Hackdeck/Hackdeck/Hackdeck files/pcb.png" alt="pcbfront" width="500">
+-<img src="Hackdeck/Hackdeck files/pcb.png" alt="pcbfront" width="500">
 -Back
--<img src="Axe-s-Crammed-Hackpad-Hackdeck/Hackdeck/Hackdeck files/pcbback.png" width="500">
+-<img src="Hackdeck/Hackdeck files/pcbback.png" width="500">
