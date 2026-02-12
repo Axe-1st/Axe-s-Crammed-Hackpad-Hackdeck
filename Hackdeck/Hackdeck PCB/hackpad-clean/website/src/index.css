@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@plugin '@tailwindcss/typography';
+
+body {
+    /* background-color: #150C21; */
+    background-image: url("/bg-light.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: center;
+}
+
+@keyframes title {
+}
+
+.prose img {
+    @apply rounded-md shadow-lg ring-1 ring-slate-700/30 h-auto mx-auto;
+    max-width: calc(100% - 2rem);
+}
+
+a {
+    color: #155e75;
+    /* text-decoration-line: underline; */
+    font-weight: bold;
+}
+
+.prose a {
+    color: #155e75;
+    /* text-decoration-line: underline; */
+    font-weight: bold;
+    @apply no-underline;
+}
+
+.prose code {
+    @apply bg-slate-500/20 p-1 rounded font-mono font-normal;
+    font-weight: 500 !important;
+}
+
+.prose code::before,
+.prose code::after {
+    content: none;
+}

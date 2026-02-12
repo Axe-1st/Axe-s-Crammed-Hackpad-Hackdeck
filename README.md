@@ -1,5 +1,10 @@
 # Axe-s-Crammed-Hackpad-Hackdeck
-This is my own Hackdeck! (maybe i should call it hackdecky)
+-This is my own Hackdeck! (maybe i should call it hackdecky)
+
+-If you were wondering why did i make it like this? I made it so i can move more easily in cad than rather keep on holding on my scroll wheel. I plan to add lots of lots of custom presets with its own Firmware and custom app "if i have time thou"
+
+
+
 ## What it has:
 -1x Rotary encoder
 
@@ -10,6 +15,33 @@ This is my own Hackdeck! (maybe i should call it hackdecky)
 -8x macro keys (planning to make lots modes/presets)
 
 -worst pcb routing ever
+
+
+## What it should look like:
+
+
+-This is My Hackydecky!
+
+
+-"Please ignore why is there so many colors it should be Black of White!"
+
+-"Also ignore why is the Xiao rp2040 placed on the top layer on the pcb not on the bottom"
+
+-inside
+
+
+<img src="Hackdeck/Hackdeck files/pcb.png" alt="pcbfront" width="500">
+
+
+-outside
+
+
+<img src="Hackdeck/Hackdeck files/pcb.png" alt="pcbfront" width="500">
+
+
+
+
+
 ## PCB:
 
 -2 Layers
@@ -42,6 +74,12 @@ This is my own Hackdeck! (maybe i should call it hackdecky)
 -Top Part/Cover
 
 
+-If you noticed why does the top layer have no screw holes?
+
+
+-Don't worry i have fixed it in my latest commit
+
+
 <img src="Hackdeck/Hackdeck files/topcover.png" width="500">
 
 
@@ -53,6 +91,8 @@ This is my own Hackdeck! (maybe i should call it hackdecky)
 
 -as you can see i added cutouts for led and usb port. I also added screw mounting holes
 
+
+-Made in onshape!
 
 ## Firmware:
 
