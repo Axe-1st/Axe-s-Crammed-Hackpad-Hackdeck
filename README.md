@@ -59,18 +59,32 @@ This is my own Hackdeck! (maybe i should call it hackdecky)
 
 -So currently right now the firmware i have is for Flashing the leds non stop.
 
+
 -for sure i will add all of my codes when i start asembly
+
+
 ## BOM:
+
+
 -Here is all of the Bill of materials to make your own hackdeck as well!
 
 
 -8x Cherry MX Switches
+
 -8x DSA Keycaps
+
 -4x M3x16mm screws
+
 -4x M3x5mx4mm heatset inserts
+
 -1x Seeed XIAO RP2040
+
 -4x SK6812 MINI-E LEDs
+
 -1x 0.91 inch OLED display
+
 -1x EC11 Rotary encoders
+
 -9x through-hole 1N4148 Diodes
+
 -1x Bottom Case and Cover
